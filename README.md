@@ -5,7 +5,7 @@
 # IDS706-Miniproject3
 ## File Structure 
 ```
-Diego_Rodriguez_Individual_Project#3/
+Diego_Rodriguez_Miniproject#3/
 ├── .devcontainer/
 │   ├── devcontainer.json
 │   └── Dockerfile
