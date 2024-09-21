@@ -1,12 +1,11 @@
-from main import add
+import os
 
 
-def test_add():
-    """Testing Math function"""
-    assert add(2, 2) == 4
-    assert add(3, 2) == 5
-    assert add(1, 2) == 3
+def test_main():
+    "Checking files"
+    assert os.path.isfile("images/plot.png")
+    assert os.path.isfile("Data_summary.md")
 
 
 if __name__ == "__main__":
-    test_add()
+    test_main()
