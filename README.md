@@ -95,6 +95,7 @@ uvicorn == 0.18.3
 
 Python libraries
 polars == 1.7.1
+pyarrow == 17.0.0
 numpy == 2.1.0
 seaborn == 0.13.2
 
