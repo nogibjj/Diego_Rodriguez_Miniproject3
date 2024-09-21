@@ -5,7 +5,7 @@
 # IDS706-Miniproject3
 ## File Structure 
 ```
-Diego_Rodriguez_Individual_Project#1/
+Diego_Rodriguez_Individual_Project#3/
 ├── .devcontainer/
 │   ├── devcontainer.json
 │   └── Dockerfile
@@ -58,7 +58,7 @@ Describe GDP per capita (constant 2010 US$):
 │ 50%        ┆ 6155.448169   │ \
 │ 75%        ┆ 17773.005516  │ \
 │ max        ┆ 189464.583635 │ \
-└────────────┴───────────────┘ \
+└────────────┴───────────────┘ 
 
 Describe Mortality rate, infant (per 1,000 live births):
 
@@ -76,7 +76,7 @@ Describe Mortality rate, infant (per 1,000 live births):
 │ 50%        ┆ 15.5      │ \
 │ 75%        ┆ 35.1      │ \
 │ max        ┆ 91.6      │ \
-└────────────┴───────────┘ \
+└────────────┴───────────┘ 
 ## Requirements
 devops
 black ==22.3.0 - Formatter 
